@@ -1,0 +1,6 @@
+# folders
+.ipynb_checkpoints
+
+# dataset files
+*.csv
+*.pqt
