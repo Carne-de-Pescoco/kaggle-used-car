@@ -1,6 +1,11 @@
 # folders
 .ipynb_checkpoints
+notebooks/catboost_info
+notebooks/mlruns
 
 # dataset files
 *.csv
 *.pqt
+
+# log
+*.log
