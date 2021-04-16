@@ -9,3 +9,6 @@ notebooks/mlruns
 
 # log
 *.log
+
+# virtual enviroment
+.venv
