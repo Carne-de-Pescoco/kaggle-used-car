@@ -12,3 +12,6 @@ notebooks/mlruns
 
 # virtual enviroment
 .venv
+
+# Compiled files
+*.pyc
