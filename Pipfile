@@ -12,8 +12,10 @@ sklearn = "*"
 pandas-profiling = "*"
 ipykernel = "*"
 feature-engine = "*"
+joblib = "*"
 
 [dev-packages]
+pycaret = "*"
 
 [requires]
 python_version = "3.8"
